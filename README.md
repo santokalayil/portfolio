@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1>
 <p align="center"> I am Santo K Thomas. I love programming and currently working as Freelance Data Scientist and Python Developer</p>
-<img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300">
+<img align="right" src="https://p.kindpng.com/picc/s/158-1581440_course-clipart-ict-computer-cartoon-infographic-png-transparent.png" height="300" width="300">
 <h3 align="center"> Language & Skills </h3>
 
 - Python
