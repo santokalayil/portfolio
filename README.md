@@ -17,10 +17,10 @@
 
 <h4 align="center">Things got bugs, gonna smash them one by one</h4>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=santokalayil&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=santokalayil&show_icons=true&include_all_commits=true&theme=blue-white&count_private=false" alt="github stats">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aayushi-droid&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=santokalayil)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=santokalayil&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 - 📝 I regulary write articles on [Aayushi's Blog](http://aayushi-droid.github.io/)
 
 <p align="center">
