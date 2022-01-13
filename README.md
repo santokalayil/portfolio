@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 </h1>
-<p align="center"> I am Santo K Thomas. I love programming and currently working as Freelance Data Scientist and Python Developer</p>
+<p align="center"> I am Santo K Thomas. I love programming and currently working as Consultant Data Scientist @ ezetap payment solutions</p>
 <!-- <img align="right" src="https://img.lovepik.com/element/40137/3103.png_1200.png" height="300" width="300"> -->
 <h3 align="center"> Language & Skills </h3>
 
