@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 </h1>
-<p align="center"> I am Santo K Thomas. I love programming and currently working as Consultant Data Scientist @ Ezetap Mobile Solutions Pvt. Ltd</p>
+<p align="center"> I am Santo K Thomas. I love programming and currently working as Associate Data Scientist @ Ezetap by Razorpay Ltd</p>
 <!-- <img align="right" src="https://img.lovepik.com/element/40137/3103.png_1200.png" height="300" width="300"> -->
 <h3 align="center"> Language & Skills </h3>
 
@@ -8,10 +8,12 @@
 - Julia
 - JavaScipt
 - Machine Learning
+- Deep Learning
 - Data Scraping and Engineering
+- Computer Vision
+- Advanced Streamlit
 - Automated PDF Generation
 - Web Development
-- Deep Learning
 - Natural Language Processing
 - App Development
 
