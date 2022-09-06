@@ -12,6 +12,8 @@
 - Data Scraping and Engineering
 - Computer Vision
 - Advanced Streamlit
+- Docker and Docker-Compose
+- Git
 - Automated PDF Generation
 - Web Development
 - Natural Language Processing
