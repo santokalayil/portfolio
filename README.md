@@ -23,6 +23,8 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=santokalayil&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
 
+https://python-data-science.readthedocs.io/en/latest/
+
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=aayushi-droid&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)  -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=santokalayil&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- - 📝 I regulary write articles on [Aayushi's Blog](http://aayushi-droid.github.io/) -->
