@@ -3,21 +3,16 @@
 <!-- <img align="right" src="https://img.lovepik.com/element/40137/3103.png_1200.png" height="300" width="300"> -->
 <h3 align="center"> Language & Skills </h3>
 
-- Python
-- Rust
-- Julia
-- JavaScipt
-- Machine Learning
-- Deep Learning
-- Data Scraping and Engineering
-- Computer Vision
+- Python - OOPS, Library Building, Complex Frameworks, Generators, Async, Decorators, etc.
+- Rust - Basic, PYO3
+- LLMs, Generative AI, Agentic AI, Retrieval Augmented Generation(RAG), Instructor, PydanticAI, VertexAI, LangChain, LlamaIndex
+- Machine Learning, Deep Learning, Natural Language Processing
+- Data Pipelines, ETL, Extraction, Scraping, Cleaning, Engineering
+- Computer Vision, Gemini Vision, Document Parsing
 - Advanced Streamlit
 - Docker and Docker-Compose
-- Git
+- Git, Github, Bitbucket
 - Automated PDF Generation
-- Web Development
-- Natural Language Processing
-- App Development
 
 <h4 align="center">Miles to go before I sleep...</h4>
 
