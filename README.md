@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 </h1>
-<p align="center"> I am Santo K Thomas. I love programming and currently working as Associate Data Scientist @ Ezetap by Razorpay</p>
+<p align="center"> I am Santo K Thomas. I love programming and currently working as a Data Scientist @ ICE Data Services (Inter-Continental Exchange: Mother company of New York Stock Exchange</p>
 <!-- <img align="right" src="https://img.lovepik.com/element/40137/3103.png_1200.png" height="300" width="300"> -->
 <h3 align="center"> Language & Skills </h3>
 
